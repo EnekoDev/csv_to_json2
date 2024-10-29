@@ -1,9 +1,6 @@
 import csv
 import json
 
-CSV_URL = '/home/olen/Documentos/workspaces/arratek-workspace/aplicaciones/afiliados.csv'
-JSON_URL = '/home/olen/Documentos/workspaces/arratek-workspace/aplicaciones/afiliados.json'
-
 JSON_HEADER = {
     "version": 2,
     "data": {
